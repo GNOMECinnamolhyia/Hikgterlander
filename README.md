@@ -69,7 +69,7 @@ Polybar se inicia automáticamente con el script de Hikgterlander.
 
 ---
 
-## Volumen (PipeWire + pamixer)
+## Volumen (PipeWire + paixer)
 
 El control de volumen se realiza actualmente desde la terminal usando aliases en `.bashrc`.
 
@@ -163,6 +163,12 @@ No esta hecho para ser usado de forma normal, solo una persona rara como yo lo u
 ## Licencia
 
 Esta en el archivo LICENCE del repo. (la licencia GNU)
+
+---
+
+## WiFi
+
+Para conectarte a un WiFi necesitas usar herramientas de terminal como IWCTL de Intel.
 
 ---
 
